@@ -1,6 +1,7 @@
 import keyboard
 import pygame
 import sys 
+# modificacion 1.3333333
 
 class Nave:
     imagen = pygame.image.load("nave.png")
